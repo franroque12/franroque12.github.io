@@ -1,6 +1,7 @@
 {
   "nav": {
     "about": "About",
+    "work": "Work",
     "certifications": "Certifications",
     "experience": "Experience",
     "education": "Education",
@@ -25,6 +26,26 @@
       "years": "Years of Experience",
       "certifications": "Certifications",
       "sectors": "Industries & Clients"
+    }
+  },
+  "work": {
+    "title": "What I Do",
+    "subtitle": "Areas of Work",
+    "quality": {
+      "name": "Quality Engineering",
+      "description": "Test strategy, automation, and quality processes that ensure reliable, scalable software delivery, with a focus on API testing, CI/CD, and GenAI-assisted workflows."
+    },
+    "automation": {
+      "name": "Electrical Engineering for Automation & Robotics",
+      "description": "Design and development of automation and robotics systems, drawing on a background in Electrical and Computer Engineering with a Master's in Automation and Robotics."
+    },
+    "consulting": {
+      "name": "Consulting for Doctors",
+      "description": "Consulting and process automation for ophthalmology and haematology practices, developing custom software to streamline clinical and data-management workflows."
+    },
+    "teaching": {
+      "name": "Tutoring in Maths, MATLAB & Python",
+      "description": "Tutoring and lessons in Mathematics, MATLAB, and Python, supporting students from secondary school through university in building technical and analytical skills."
     }
   },
   "certifications": {
@@ -173,7 +194,7 @@
   },
   "beyondtherole": {
     "title": "Beyond Work",
-    "subtitle": "Research, Recognition, Community & Freelance",
+    "subtitle": "Research, Recognition & Community",
     "items": {
       "research": {
         "name": "Research",
@@ -190,10 +211,6 @@
       "community": {
         "name": "Community",
         "description": "Years of volunteer leadership at the University of Coimbra: Students' Representative on the Pedagogical Council, Job & Training Area Coordinator for the Electrical and Computer Engineering Students Board, Robotics Club member, Bot Olympics instructor, and tutor at NExT — Volunteer Tutoring Centre."
-      },
-      "freelance": {
-        "name": "Freelance Work",
-        "description": "Outside InnoTech: tutoring in Python, MATLAB and Mathematics, laser printing and engraving, and custom software development for ophthalmologists and haematologists."
       }
     }
   },

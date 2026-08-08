@@ -9,10 +9,9 @@ const ICONS: Record<string, string> = {
   awards: "🏆",
   conferences: "🎤",
   community: "🤝",
-  freelance: "🛠️",
 };
 
-const ITEM_KEYS = ["research", "awards", "conferences", "community", "freelance"] as const;
+const ITEM_KEYS = ["research", "awards", "conferences", "community"] as const;
 
 export default function BeyondTheRole() {
   const { t } = useI18n();

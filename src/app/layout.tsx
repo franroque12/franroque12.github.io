@@ -33,12 +33,12 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Francisco Roque" }],
   creator: "Francisco Roque",
-  metadataBase: new URL("https://francisco-roque-cv.example.com"),
+  metadataBase: new URL("https://francisco-roque.com"),
   openGraph: {
     title: "Francisco Roque | Senior Quality Engineer",
     description:
       "Senior Quality Engineer with 5+ years of experience in test automation, performance engineering, and quality practices. ISTQB Certified (6x).",
-    url: "https://francisco-roque-cv.example.com",
+    url: "https://francisco-roque.com",
     siteName: "Francisco Roque",
     type: "website",
     locale: "en_US",
@@ -62,7 +62,7 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://francisco-roque-cv.example.com",
+    canonical: "https://francisco-roque.com",
   },
 };
 
@@ -72,13 +72,13 @@ const jsonLd = {
     {
       "@type": "WebSite",
       name: "Francisco Roque",
-      url: "https://francisco-roque-cv.example.com",
+      url: "https://francisco-roque.com",
       inLanguage: ["en", "pt"],
     },
     {
       "@type": "Person",
       name: "Francisco José Dias Roque",
-      url: "https://francisco-roque-cv.example.com",
+      url: "https://francisco-roque.com",
       jobTitle: "Senior Quality Engineer",
       knowsAbout: [
         "Test Automation",

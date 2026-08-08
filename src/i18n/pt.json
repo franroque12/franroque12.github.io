@@ -1,6 +1,7 @@
 {
   "nav": {
     "about": "Sobre",
+    "work": "Áreas",
     "certifications": "Certificações",
     "experience": "Experiência",
     "education": "Formação",
@@ -25,6 +26,26 @@
       "years": "Anos de Experiência",
       "certifications": "Certificações",
       "sectors": "Setores & Clientes"
+    }
+  },
+  "work": {
+    "title": "O Que Faço",
+    "subtitle": "Áreas de Atuação",
+    "quality": {
+      "name": "Engenharia de Qualidade",
+      "description": "Estratégia de testes, automação e processos de qualidade que garantem entregas de software fiáveis e escaláveis, com foco em testes de API, CI/CD e workflows assistidos por GenAI."
+    },
+    "automation": {
+      "name": "Engenharia Eletrotécnica para Automação e Robótica",
+      "description": "Desenho e desenvolvimento de sistemas de automação e robótica, com base numa formação em Engenharia Eletrotécnica e de Computadores com Mestrado em Automação e Robótica."
+    },
+    "consulting": {
+      "name": "Consultoria para Médicos",
+      "description": "Consultoria e automação de processos para clínicas de oftalmologia e hematologia, com desenvolvimento de software à medida para simplificar fluxos clínicos e de gestão de dados."
+    },
+    "teaching": {
+      "name": "Explicações de Matemática, MATLAB e Python",
+      "description": "Explicações e aulas de Matemática, MATLAB e Python, apoiando estudantes do secundário ao ensino superior no desenvolvimento de competências técnicas e analíticas."
     }
   },
   "certifications": {
@@ -173,7 +194,7 @@
   },
   "beyondtherole": {
     "title": "Para Além do Trabalho",
-    "subtitle": "Investigação, Reconhecimento, Comunidade & Trabalho Independente",
+    "subtitle": "Investigação, Reconhecimento & Comunidade",
     "items": {
       "research": {
         "name": "Investigação",
@@ -190,10 +211,6 @@
       "community": {
         "name": "Comunidade",
         "description": "Anos de liderança de voluntariado na Universidade de Coimbra: Representante dos Estudantes no Conselho Pedagógico, Coordenador da Área de Emprego e Formação Profissional no Núcleo de Engenharia Eletrotécnica e de Computadores, membro do Robotics Club, instrutor nas Bot Olympics, e tutor no NExT — Núcleo de Explicações e Tutoria."
-      },
-      "freelance": {
-        "name": "Trabalho Independente",
-        "description": "Fora da Innotech: explicações e aulas de Python, MATLAB e Matemática, impressão e gravação a laser, e desenvolvimento de software à medida para oftalmologistas e hematologistas."
       }
     }
   },
