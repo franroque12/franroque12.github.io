@@ -1,0 +1,216 @@
+{
+  "nav": {
+    "about": "Sobre",
+    "certifications": "Certificações",
+    "experience": "Experiência",
+    "education": "Formação",
+    "beyond": "Para Além do Cargo",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "tagline": "Engenharia. Qualidade. Automação."
+  },
+  "roles": {
+    "quality": "Engenheiro Eletrotécnico e de Computadores",
+    "automation": "Engenheiro de Qualidade e Automação",
+    "performance": "Engenheiro de Performance",
+    "lead": "Consultor de Software"
+  },
+  "about": {
+    "title": "Sobre",
+    "bio": "Engenheiro Eletrotécnico e de Computadores com mais de {years} anos de experiência em engenharia de qualidade, automação e desenvolvimento de software, trabalhando com clientes em múltiplos setores.",
+    "philosophy": "Filosofia",
+    "philosophyText": "Certificado ISTQB (6x), com formação em Engenharia Eletrotécnica e de Computadores, investigação e desenvolvimento de software. Trago uma abordagem analítica e abrangente à resolução de problemas técnicos de estratégias de teste e automação a modelação de carga e software à medida, colaborando de perto com equipas multidisciplinares para entregar sistemas fiáveis e de alta qualidade.",
+    "stats": {
+      "years": "Anos de Experiência",
+      "certifications": "Certificações",
+      "sectors": "Setores & Clientes"
+    }
+  },
+  "certifications": {
+    "title": "Certificações",
+    "subtitle": "20+ Certificações",
+    "description": "Seis certificações ISTQB que abrangem gestão de testes, automação, performance e testes assistidos por GenAI, além de credenciais de liderança Agile, ferramentas de performance, e plataformas cloud como Azure, Oracle Cloud e Google Cloud.",
+    "groups": {
+      "istqb": {
+        "name": "ISTQB — Certified Tester",
+        "items": [
+          "Test Management (CTAL-TM)",
+          "Testing with Gen AI (CT-GenAI)",
+          "Test Automation Strategy (CT-TAS)",
+          "Test Automation Engineering (CTAL-TAE)",
+          "Performance Testing (CT-PT)",
+          "Foundation Level (CTFL)"
+        ]
+      },
+      "scrum": {
+        "name": "Scrum.org",
+        "items": ["Professional Scrum Product Owner™ I", "Professional Scrum Master™ I"]
+      },
+      "katalon": {
+        "name": "Katalon",
+        "items": ["Practitioner"]
+      },
+      "gatling": {
+        "name": "Gatling",
+        "items": ["Certificado"]
+      },
+      "loadrunner": {
+        "name": "Micro Focus — LoadRunner",
+        "items": ["Professional", "Enterprise", "Cloud"]
+      },
+      "azure": {
+        "name": "Microsoft Azure",
+        "items": [
+          "Azure Fundamentals (AZ-900)",
+          "Azure Data Fundamentals (DP-900)",
+          "AI Fundamentals (AI-900)"
+        ]
+      },
+      "oracle": {
+        "name": "Oracle Cloud Infrastructure",
+        "items": ["Foundations Associate", "Architect Associate", "Developer Associate"]
+      },
+      "gcp": {
+        "name": "Google Cloud Platform",
+        "items": ["Associate Cloud Engineer"]
+      }
+    }
+  },
+  "experience": {
+    "title": "Experiência",
+    "subtitle": "Trabalho para Clientes",
+    "period": "Período",
+    "role": "Cargo",
+    "impact": "Impacto",
+    "stack": "Stack",
+    "present": "Presente",
+    "projects": {
+      "project0": {
+        "client": "Cliente Transportes (Portugal)",
+        "company": "InnoTech",
+        "role": "Senior QA Automation Engineer",
+        "startDate": "2026/04",
+        "endDate": null,
+        "description": "Defino e evoluo a estratégia de QA, práticas de automação e processos de qualidade para suportar entrega de software escalável, estabilidade de releases e melhoria contínua em equipas Ágeis. Desenho e mantenho frameworks de automação escaláveis, API-first, para melhorar a cobertura de regressão, a eficiência de execução e a maturidade geral de testes.",
+        "impact": "Reforço quality gates de CI/CD e a visibilidade de testes em estreita colaboração com equipas de engenharia, produto e DevOps, lidero iniciativas de testes baseados em risco e definição de âmbito de automação, e impulsiono a adoção de workflows assistidos por GenAI para desenho de testes e aceleração de automação — enquanto apoio o crescimento da equipa com orientação técnica e mentoria.",
+        "stack": ["Test Strategy", "Testes de API", "CI/CD", "GenAI", "Mentoria"]
+      },
+      "project1": {
+        "client": "Cliente Seguradora (Canadá)",
+        "company": "Deloitte",
+        "role": "Lead Performance Engineer",
+        "startDate": "2025/10",
+        "endDate": "2026/03",
+        "description": "Liderei iniciativas de engenharia de performance para uma grande plataforma seguradora. Desenhei modelos de carga e estratégias de performance alinhadas com o uso em produção, e executei testes de carga em larga escala com LoadRunner.",
+        "impact": "Identifiquei bottlenecks do sistema e apresentei recomendações de otimização, além de ter desenvolvido scripts Python/Selenium para automatizar a preparação de dados de testes de performance.",
+        "stack": ["LoadRunner", "Python", "Selenium", "Workload Modelling"]
+      },
+      "project2": {
+        "client": "Cliente Bancário (Portugal)",
+        "company": "Deloitte",
+        "role": "QA Engineer Lead",
+        "startDate": "2024/09",
+        "endDate": "2025/10",
+        "description": "QA Engineer Lead em várias squads de testes, garantindo processos consistentes e boas práticas de QA no desenho e implementação de novas APIs e serviços. Desenhei e entreguei aceleradores de automação com Python e Selenium, e construí cenários de teste automatizados com Robot Framework que melhoraram a cobertura de testes e a fiabilidade do sistema.",
+        "impact": "Poupei cerca de 25 horas de trabalho manual por mês em cada equipa, atuei como Functional Product Owner para uma API chave, e supervisionei a qualidade de novos desenvolvimentos com apoio contínuo ao cliente focado em estabilização e performance.",
+        "stack": ["Python", "Selenium", "Robot Framework", "CI/CD", "Agile"]
+      },
+      "project3": {
+        "client": "Cliente Seguradora (Portugal)",
+        "company": "Deloitte",
+        "role": "Tech Consultant",
+        "startDate": "2023/09",
+        "endDate": "2024/08",
+        "description": "Apoio ao desenho da arquitetura de integração para um novo core system de seguros, definindo e documentando novas APIs, fluxos de orquestração, processos BPMN e modelos de decisão DMN em Confluence.",
+        "impact": "Contribuí para boas práticas de testes de API que garantem validação consistente e fiável entre endpoints, e realizei testes manuais e exploratórios com Postman para verificar cenários funcionais e a integração entre sistemas.",
+        "stack": ["BPMN", "DMN", "Postman", "Confluence", "Testes de API"]
+      },
+      "project4": {
+        "client": "Cliente Seguradora (Reino Unido)",
+        "company": "Deloitte",
+        "role": "Tech Analyst",
+        "startDate": "2021/04",
+        "endDate": "2023/08",
+        "description": "Defini e implementei uma estratégia de testes de performance para uma aplicação core de uma grande seguradora do Reino Unido, desenhando uma framework JMeter escalável integrada em pipelines de Azure DevOps e a correr até duas vezes por dia com 1.000 a 7.500 utilizadores virtuais a simular carga real.",
+        "impact": "Gerei insights de performance acionáveis através de dashboards em Grafana, análises em Excel e apresentações executivas, alinhando os resultados dos testes com KPIs de negócio para mitigar riscos de performance e melhorar a escalabilidade.",
+        "stack": ["Apache JMeter", "Azure DevOps", "Grafana", "Excel"]
+      },
+      "project5": {
+        "client": "Iniciativas Internas & Comunidade",
+        "company": "Deloitte",
+        "role": "Collaborator",
+        "startDate": "2021/04",
+        "endDate": "2026/03",
+        "description": "Representa a Deloitte em universidades e eventos de carreira, e estabeleceu parcerias com os principais fornecedores de ferramentas de teste para impulsionar a entrega de soluções inovadoras.",
+        "impact": "Realiza workshops e sessões de formação que reforçam a capacidade de testes de performance em toda a organização, e orienta estudantes de Mestrado em testes de software e investigação de qualidade, ligando metodologias académicas à prática da indústria.",
+        "stack": ["Mentoria", "Workshops", "Comunidade"]
+      }
+    }
+  },
+  "education": {
+    "title": "Formação",
+    "subtitle": "Percurso Académico",
+    "grade": "Nota",
+    "degrees": {
+      "master": {
+        "name": "Mestrado em Engenharia Eletrotécnica e de Computadores",
+        "specialization": "Especialização em Automação (120 ECTS)",
+        "institution": "DEEC, Universidade de Coimbra",
+        "grade": "17/20",
+        "startDate": "2018/09",
+        "endDate": "2020/11"
+      },
+      "bachelor": {
+        "name": "Licenciatura em Engenharia Eletrotécnica e de Computadores",
+        "specialization": "180 ECTS",
+        "institution": "DEEC, Universidade de Coimbra",
+        "grade": "17/20",
+        "startDate": "2015/09",
+        "endDate": "2018/08"
+      }
+    }
+  },
+  "beyondtherole": {
+    "title": "Para Além do Trabalho",
+    "subtitle": "Investigação, Reconhecimento, Comunidade & Trabalho Independente",
+    "items": {
+      "research": {
+        "name": "Investigação",
+        "description": "Bolsa de Investigação em Robótica Móvel Centrada no Humano no Instituto de Sistemas e Robótica, Universidade de Coimbra (2019), desenvolvendo algoritmos em MATLAB para Interfaces Cérebro-Computador. Co-autor de \"A User Identification System based on Code-modulated Visual Evoked Potentials with LED Stimulation\", publicado no IEEE IWBF 2021."
+      },
+      "awards": {
+        "name": "Prémios",
+        "description": "Quadro de Mérito da Universidade de Coimbra (2018/2019, 2019/2020) e Prémio de Mérito, Top 3% da Universidade de Coimbra (2016/2017, 2017/2018), pelo desempenho académico durante a licenciatura e mestrado em Engenharia Eletrotécnica e de Computadores."
+      },
+      "conferences": {
+        "name": "Conferências",
+        "description": "Participação na Testing Portugal — PSTQB (2022, Porto) e (2026, Lisboa) e nas Summer e Spring Schools de BCI & Neurotecnologia da g.tec (2020, online), mantendo-me atualizado tanto na indústria de QA como na área de investigação em neurotecnologia."
+      },
+      "community": {
+        "name": "Comunidade",
+        "description": "Anos de liderança de voluntariado na Universidade de Coimbra: Representante dos Estudantes no Conselho Pedagógico, Coordenador da Área de Emprego e Formação Profissional no Núcleo de Engenharia Eletrotécnica e de Computadores, membro do Robotics Club, instrutor nas Bot Olympics, e tutor no NExT — Núcleo de Explicações e Tutoria."
+      },
+      "freelance": {
+        "name": "Trabalho Independente",
+        "description": "Fora da Innotech: explicações e aulas de Python, MATLAB e Matemática, impressão e gravação a laser, e desenvolvimento de software à medida para oftalmologistas e hematologistas."
+      }
+    }
+  },
+  "footer": {
+    "scroll": "QUALIDADE • AUTOMAÇÃO • PERFORMANCE • ISTQB • TESTES • GENAI • FIABILIDADE • CI/CD •",
+    "rights": "Todos os direitos reservados.",
+    "builtWith": "Construído com Next.js, TypeScript & Claude Code"
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Entra em Contacto",
+    "cta": "Vamos falar"
+  },
+  "notFound": {
+    "code": "404",
+    "heading": "Esta página não existe.",
+    "description": "A página que procuras não existe ou foi movida.",
+    "backHome": "Voltar ao início"
+  }
+}
