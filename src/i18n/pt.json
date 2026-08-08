@@ -8,7 +8,7 @@
     "contact": "Contacto"
   },
   "hero": {
-    "tagline": "Engenharia. Qualidade. Automação."
+    "tagline": "Engenharia. Automação. Performance."
   },
   "roles": {
     "quality": "Engenheiro Eletrotécnico e de Computadores",
@@ -18,9 +18,9 @@
   },
   "about": {
     "title": "Sobre",
-    "bio": "Engenheiro Eletrotécnico e de Computadores com mais de {years} anos de experiência em engenharia de qualidade, automação e desenvolvimento de software, trabalhando com clientes em múltiplos setores.",
+    "bio": "Engenheiro Eletrotécnico e de Computadores com mais de {years} anos de experiência em engenharia de qualidade, automação, robótica e desenvolvimento de software, trabalhando com clientes em múltiplos setores.",
     "philosophy": "Filosofia",
-    "philosophyText": "Certificado ISTQB (6x), com formação em Engenharia Eletrotécnica e de Computadores, investigação e desenvolvimento de software. Trago uma abordagem analítica e abrangente à resolução de problemas técnicos de estratégias de teste e automação a modelação de carga e software à medida, colaborando de perto com equipas multidisciplinares para entregar sistemas fiáveis e de alta qualidade.",
+    "philosophyText": "Certificado ISTQB (6x), com formação em Engenharia Eletrotécnica e de Computadores com Mestrado em Automação e Robótica. Trago uma abordagem analítica e abrangente à resolução de problemas técnicos de estratégias de teste e automação a modelação de carga e software à medida, colaborando de perto com equipas multidisciplinares para entregar sistemas fiáveis e de alta qualidade.",
     "stats": {
       "years": "Anos de Experiência",
       "certifications": "Certificações",

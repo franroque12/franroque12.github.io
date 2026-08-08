@@ -8,7 +8,7 @@
     "contact": "Contact"
   },
   "hero": {
-    "tagline": "Engineering. Quality. Automation."
+    "tagline": "Engineering. Automation. Performance."
   },
   "roles": {
     "quality": "Electrical & Computer Engineer",
@@ -18,9 +18,9 @@
   },
   "about": {
     "title": "About",
-    "bio": "Electrical and Computer Engineer with {years}+ years of experience across quality engineering, automation, and software development, working with clients across multiple industries.",
+    "bio": "Electrical and Computer Engineer with {years}+ years of experience across quality engineering, automation, robotics, and software development, working with clients across multiple industries.",
     "philosophy": "Philosophy",
-    "philosophyText": "ISTQB Certified (6x), with a background in Electrical and Computer Engineering, research, and software development. I bring a broad, analytical approach to solving technical problems from test strategy and automation to workload modelling and custom software collaborating closely with cross-functional teams to deliver reliable, high-quality systems.",
+    "philosophyText": "ISTQB Certified (6x), with a background in Electrical and Computer Engineering with a Master's in Automation and Robotics. I bring a broad, analytical approach to solving technical problems from test strategy and automation to workload modelling and custom software collaborating closely with cross-functional teams to deliver reliable, high-quality systems.",
     "stats": {
       "years": "Years of Experience",
       "certifications": "Certifications",
